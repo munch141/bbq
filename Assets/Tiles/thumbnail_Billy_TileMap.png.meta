@@ -1,0 +1,764 @@
+fileFormatVersion: 2
+guid: 9314f3f2910edae408302bec31568626
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6799553320443752887
+    second: thumbnail_Billy_TileMap_0
+  - first:
+      213: -5594961871241647755
+    second: thumbnail_Billy_TileMap_1
+  - first:
+      213: 5452944734574727475
+    second: thumbnail_Billy_TileMap_2
+  - first:
+      213: 6433759184725442621
+    second: thumbnail_Billy_TileMap_3
+  - first:
+      213: 7439430286846193844
+    second: thumbnail_Billy_TileMap_4
+  - first:
+      213: -2535232658095490129
+    second: thumbnail_Billy_TileMap_5
+  - first:
+      213: -8471396656492791554
+    second: thumbnail_Billy_TileMap_6
+  - first:
+      213: 5737452135314224771
+    second: thumbnail_Billy_TileMap_7
+  - first:
+      213: 6712809832095310159
+    second: thumbnail_Billy_TileMap_8
+  - first:
+      213: -6792680196994970380
+    second: thumbnail_Billy_TileMap_9
+  - first:
+      213: 4817375882694495964
+    second: thumbnail_Billy_TileMap_10
+  - first:
+      213: -9128947046383312215
+    second: thumbnail_Billy_TileMap_11
+  - first:
+      213: 9039049178546729632
+    second: thumbnail_Billy_TileMap_12
+  - first:
+      213: -2173230169691971669
+    second: thumbnail_Billy_TileMap_13
+  - first:
+      213: 2108445022439135569
+    second: thumbnail_Billy_TileMap_14
+  - first:
+      213: -5104277171255070758
+    second: thumbnail_Billy_TileMap_15
+  - first:
+      213: 4016891361275212274
+    second: thumbnail_Billy_TileMap_16
+  - first:
+      213: -5444010256902004261
+    second: thumbnail_Billy_TileMap_17
+  - first:
+      213: 8627170539128605405
+    second: thumbnail_Billy_TileMap_18
+  - first:
+      213: -4495562357391977100
+    second: thumbnail_Billy_TileMap_19
+  - first:
+      213: -6505172319919420714
+    second: thumbnail_Billy_TileMap_20
+  - first:
+      213: -3040720198700496107
+    second: thumbnail_Billy_TileMap_21
+  - first:
+      213: 3286187854793094380
+    second: thumbnail_Billy_TileMap_22
+  - first:
+      213: 6928692751615195940
+    second: thumbnail_Billy_TileMap_23
+  - first:
+      213: -4533807363487578526
+    second: thumbnail_Billy_TileMap_24
+  - first:
+      213: -8258027769652162794
+    second: thumbnail_Billy_TileMap_25
+  - first:
+      213: 6512597235699496299
+    second: thumbnail_Billy_TileMap_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: thumbnail_Billy_TileMap_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 178
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e4f97d74223a1a0800000000000000
+      internalID: -6799553320443752887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_Billy_TileMap_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 178
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57969cc42d3ba52b0800000000000000
+      internalID: -5594961871241647755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_Billy_TileMap_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 178
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331d92c5850ccab40800000000000000
+      internalID: 5452944734574727475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_Billy_TileMap_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 178
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3087f714ed494950800000000000000
+      internalID: 6433759184725442621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_Billy_TileMap_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 178
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0ffba1e6a2e3760800000000000000
+      internalID: 7439430286846193844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_Billy_TileMap_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 178
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabbf37645b01dcd0800000000000000
+      internalID: -2535232658095490129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_Billy_TileMap_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8b052df9d8f6a80800000000000000
+      internalID: -8471396656492791554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_Billy_TileMap_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386f53991568f9f40800000000000000
+      internalID: 5737452135314224771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_Billy_TileMap_8
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f416acee9f0b82d50800000000000000
+      internalID: 6712809832095310159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_Billy_TileMap_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcc849995d8bb1a0800000000000000
+      internalID: -6792680196994970380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_Billy_TileMap_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde0a8d77d1cad240800000000000000
+      internalID: 4817375882694495964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_Billy_TileMap_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2a8fe47077f4180800000000000000
+      internalID: -9128947046383312215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_Billy_TileMap_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a270924657217d70800000000000000
+      internalID: 9039049178546729632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_Billy_TileMap_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf1958cca227d1e0800000000000000
+      internalID: -2173230169691971669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_Billy_TileMap_14
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159dceea393b24d10800000000000000
+      internalID: 2108445022439135569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_Billy_TileMap_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfa434d4f6f929b0800000000000000
+      internalID: -5104277171255070758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_Billy_TileMap_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1f422296ddeb730800000000000000
+      internalID: 4016891361275212274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_Billy_TileMap_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1e5c3d38df274b0800000000000000
+      internalID: -5444010256902004261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_Billy_TileMap_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddac97985edd9b770800000000000000
+      internalID: 8627170539128605405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_Billy_TileMap_19
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475980ebadd8c91c0800000000000000
+      internalID: -4495562357391977100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_Billy_TileMap_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dacf7cad3cf8b5a0800000000000000
+      internalID: -6505172319919420714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_Billy_TileMap_21
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b0a17f6113dc5d0800000000000000
+      internalID: -3040720198700496107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_Billy_TileMap_22
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce435266172ea9d20800000000000000
+      internalID: 3286187854793094380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_Billy_TileMap_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bf8d90959a72060800000000000000
+      internalID: 6928692751615195940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_Billy_TileMap_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266c54b593ea411c0800000000000000
+      internalID: -4533807363487578526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_Billy_TileMap_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f42941f77956d80800000000000000
+      internalID: -8258027769652162794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_Billy_TileMap_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b653f0f3ea4616a50800000000000000
+      internalID: 6512597235699496299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
